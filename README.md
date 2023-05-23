@@ -1,21 +1,21 @@
 # webProjectseXplore
 
-#Features
-*Share project
-*Message other users
-*Rate other works
-*Search other users and projects
+# Features
+* Share project
+* Message other users
+* Rate other works
+* Search other users and projects
 
 
-#Overview
-*Django
-*Database design and models
-*Static files
-*User register and authentication
-*Search
-*Pagination
-*Building an api with django rest framework
-*Deployment
+# Overview
+* Django
+* Database design and models
+* Static files
+* User register and authentication
+* Search
+* Pagination
+* Building an api with django rest framework
+* Deployment
 
 
 # Tech stack
