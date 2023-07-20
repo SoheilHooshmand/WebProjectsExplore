@@ -15,7 +15,7 @@
 * Search
 * Pagination
 * Building an api with django rest framework
-* Deployment
+
 
 
 # Tech stack
